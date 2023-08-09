@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+@font-face {
+    font-family: kg;
+    src: url(kg_ways_to_say_goodbye/KGWaystoSayGoodbye.ttf);
+}
+#img1{
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-repeat: repeat;
+}
+header{
+    height: 120px;
+    width: 100%;
+    background-color: #EBE8DA;
+}
+body{
+    background-color: #cac9c3;
+}
+#spotify1{
+    width: 350px;
+    height: 500px;
+    margin-left: 20px;
+    margin-top: 70px;
+    border-radius: 12px;
+    position: absolute;
+    display: block;
+}
+
+#spotify2{
+    width: 350px;
+    height: 500px;
+    margin-left: 490px;
+    margin-top: 70px;
+    border-radius: 12px;
+    position: absolute;
+    display: block;
+}
+
+p{
+    font-family: kg;
+    margin-left: 20px;
+    font-size: 15px;
+    position: relative;
+}
+h5{
+    font-family: kg;
+    margin-left: 10px;
+    font-size: 20px;
+    position: relative;
+    display: block;
+}
+h1{
+    font-family: kg;
+    font-size: 40px;
+    text-align: center;
+    margin: 10px;
+    
+}
+#divmusicas{
+    margin-left: 400px;
+}
